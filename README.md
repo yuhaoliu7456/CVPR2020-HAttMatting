@@ -4,3 +4,4 @@ Our Code and paper will be made public shortly!!!<br/>
 
 ## Visual Results
 <img src="https://github.com/wukaoliu/CVPR2020-HAttMatting/blob/master/results/ball-img16.png" width="480" height="320">
+<img src="https://github.com/wukaoliu/CVPR2020-HAttMatting/blob/master/results/ball-our.png" width="480" height="320">
