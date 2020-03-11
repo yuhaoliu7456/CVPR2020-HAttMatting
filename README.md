@@ -15,6 +15,16 @@ Our Code and paper will be made public shortly!!!<br/>
             </td>
         </tr>
         <tr>
+            <td>
+                <!--左侧内容-->
+                <img src="https://github.com/wukaoliu/CVPR2020-HAttMatting/blob/master/results/retriever-img0.png" width="384" height="256">
+            </td>
+            <td>
+                <!--右侧内容-->
+                <img src="https://github.com/wukaoliu/CVPR2020-HAttMatting/blob/master/results/retriever-our-img0.png" width="384" height="256">
+            </td>
+        </tr>
+        <tr>
             <td align="center">
                     Input Image
             </td>
