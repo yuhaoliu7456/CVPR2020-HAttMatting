@@ -3,7 +3,7 @@ This is the offical implementation of Attention-Guided Hierarchical Structure Ag
 Our Code and paper will be made public shortly!!!<br/>
 
 ## Visual Results
-<table style="margin-left: auto; margin-right: auto; text-align:center;">
+<table style="margin-left: auto; margin-right: auto;">
         <tr>
             <td>
                 <!--左侧内容-->
@@ -15,10 +15,10 @@ Our Code and paper will be made public shortly!!!<br/>
             </td>
         </tr>
         <tr>
-            <td>
+            <td align="center">
                     Input Image
             </td>
-            <td>
+            <td align="center">
                     Our Result
             </td>
         </tr>
