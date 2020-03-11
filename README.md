@@ -3,7 +3,7 @@ This is the offical implementation of Attention-Guided Hierarchical Structure Ag
 Our Code and paper will be made public shortly!!!<br/>
 
 ## Visual Results
-<table style="margin-left: auto; margin-right: auto; cellspacing="0" cellpadding="0"">
+<table style="margin-left: auto; margin-right: auto;">
         <tr>
             <td>
                 <!--左侧内容-->
@@ -14,6 +14,14 @@ Our Code and paper will be made public shortly!!!<br/>
                 <!--右侧内容-->
                 <img src="https://github.com/wukaoliu/CVPR2020-HAttMatting/blob/master/results/ball-our.png" width="384" height="256">
                 <br/>右侧
+            </td>
+        </tr>
+        <tr style="text-align:center;">
+            <td>
+                    Input Image
+            </td>
+            <td>
+                    Our Result
             </td>
         </tr>
     </table>
