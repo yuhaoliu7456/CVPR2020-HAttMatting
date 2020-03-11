@@ -3,7 +3,7 @@ This is the offical implementation of Attention-Guided Hierarchical Structure Ag
 Our Code and paper will be made public shortly!!!<br/>
 
 ## Visual Results
-<table style="margin-left: auto; margin-right: auto;">
+<table style="margin-left: auto; margin-right: auto; cellspacing="0" cellpadding="0"">
         <tr>
             <td>
                 <!--左侧内容-->
