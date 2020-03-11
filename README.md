@@ -8,12 +8,12 @@ Our Code and paper will be made public shortly!!!<br/>
             <td>
                 <!--左侧内容-->
                 <img src="https://github.com/wukaoliu/CVPR2020-HAttMatting/blob/master/results/ball-img16.png" width="384" height="256">
-                左侧
+                <br/>左侧
             </td>
             <td>
                 <!--右侧内容-->
                 <img src="https://github.com/wukaoliu/CVPR2020-HAttMatting/blob/master/results/ball-our.png" width="384" height="256">
-                右侧
+                <br/>右侧
             </td>
         </tr>
     </table>
