@@ -3,8 +3,8 @@ This is the offical implementation of Attention-Guided Hierarchical Structure Ag
 Our Code and paper will be made public shortly!!!<br/>
 
 ### Project Page
-<p>Our Project Page is available now. The more contents is updating.</p>
-<a href="https://wukaoliu.github.io/HAttMatting/">Project</a><br/>
+<p>Our Project Page is available now: <a href="https://wukaoliu.github.io/HAttMatting/">HAttMatting</a>. The more contents is updating.</p>
+
 ## Visual Results
 <table style="margin-left: auto; margin-right: auto;">
         <tr>
