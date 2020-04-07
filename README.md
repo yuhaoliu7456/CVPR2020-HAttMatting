@@ -1,16 +1,6 @@
 # Attention-Guided Hierarchical Structure Aggregation for Image Matting
-This is the offical implementation of Attention-Guided Hierarchical Structure Aggregation for Image Matting(CVPR2020)<br/>
+This is the offical implementation of HAttMatting(CVPR2020)<br/>
 
-<p class="authors">
-            <a href="#">Yu Qiao<sup>*</sup></a>,
-            <a href="https://wukaoliu.github.io/">Yuhao Liu<sup>*</sup></a>,
-            <a href="http://faculty.dlut.edu.cn/yangxin/zh_CN/index/949121/list/index.htm">Xin Yang<sup>†</sup></a>,
-            <a href="#">Dongsheng Zhou</a>,
-            <a href="http://www5.zzu.edu.cn/cyjsy/info/1060/1308.htm">Mingliang Xu</a>,
-            <a href="#">Qiang Zhang</a>,
-            <a href="#">Xiaopeng Wei<sup>†</sup></a>
-</p>
-<p style="font-size: 17px; text-align: center; margin-top: -5px;">(* Joint first authors&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; † corresponding author)</pclass="text-center" style="font-size: 20px; ">
 Our Code and paper will be made public shortly!!!<br/>
 
 ### Project Page
@@ -46,4 +36,24 @@ Our Code and paper will be made public shortly!!!<br/>
                     Our Result
             </td>
         </tr>
-    </table>
+</table>
+
+
+## Dataset
+
+Our Dinstinctions-646 are composed of 646 foreground images with manually annotated alpha mattes.  We will release this dataset for encouraging future research on trimap-free image matting.
+
+**Coming soon ...**
+
+## Citation
+If you use this code and dataset for your research, please cite our paper:
+```
+@InProceedings{Qiao_2020_CVPR,
+    author = {Qiao, Yu and Liu, Yuhao and Yang, Xin and Zhou, Dongsheng and Xu, Mingliang and Zhang, Qiang and Wei, Xiaopeng},
+    title = {Attention-Guided Hierarchical Structure Aggregation for Image Matting},
+    booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month = {June},
+    year = {2020}
+}
+```
+
