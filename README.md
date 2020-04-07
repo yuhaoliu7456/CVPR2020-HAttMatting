@@ -1,7 +1,10 @@
 # Attention-Guided Hierarchical Structure Aggregation for Image Matting
 This is the offical implementation of HAttMatting(CVPR2020)<br/>
 
-Our Code and paper will be made public shortly!!!<br/>
+Code and paper is coming soon!!!<br/>
+
+## News
+The file for generating the composition dataset has been uploaded. It can synthesize data three times faster than the original code, which can save about two days of waiting!!!
 
 ### Project Page
 <p>Our Project Page is available now: <a href="https://wukaoliu.github.io/HAttMatting/">HAttMatting</a>. The more contents is updating.</p>
