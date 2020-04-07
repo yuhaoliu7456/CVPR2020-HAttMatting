@@ -44,7 +44,7 @@ The file for generating the composition dataset has been uploaded. It can synthe
 
 ## Dataset
 
-Our Dinstinctions-646 are composed of 646 foreground images with manually annotated alpha mattes.  We will release this dataset for encouraging future research on trimap-free image matting.
+Our Dinstinctions-646 are composed of 646 foreground images with manually annotated alpha mattes.  We will release this dataset for encouraging future research on trimap-free image matting. We will not post a public download link and if you need this dataset for academic research, please send a email to us for getting it.
 
 **Coming soon ...**
 
