@@ -4,7 +4,7 @@ This is the offical implementation of HAttMatting(CVPR2020)<br/>
 Code and paper is coming soon!!!<br/>
 
 ## News
-Our project Page is now fully open to the public, including pipelines, data set examples, etc. Code and paper will be open in two days.
+Our project Page is now fully open to the public, including pipelines, data set examples, etc. Code and paper will be open in two days.<br/>
 The file for generating the composition dataset has been uploaded. It can synthesize data three times faster than the original code, which can save about two days of waiting!!!
 
 ### Project Page
