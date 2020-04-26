@@ -4,8 +4,27 @@ This is the offical implementation of HAttMatting(CVPR2020)<br/>
 Code and paper is coming soon!!!<br/>
 
 ## News
-1. Our project Page is now fully open to the public, including pipelines, data set examples, etc. Paper will be open in two days.<br/>
-2. The file for generating the composition dataset has been uploaded. It can synthesize data three times faster than the original code, which can save about two days of waiting!!!
+1. Some example images from our dataset have been uploaded.
+<table style="margin-left: auto; margin-right: auto;">
+        <tr>
+            <td>
+                <img src="https://github.com/wukaoliu/CVPR2020-HAttMatting/blob/master/figures/train-img-example.png" width="384" height="256">
+            </td>
+            <td>  
+                <img src="https://github.com/wukaoliu/CVPR2020-HAttMatting/blob/master/figures/train-gt-example.png" width="384" height="256">
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                    Training Image
+            </td>
+            <td align="center">
+                    Training GT
+            </td>
+        </tr>
+</table>
+2. Our project Page is now fully open to the public, including pipelines, data set examples, etc. Paper will be open in two days.<br/>
+3. The file for generating the composition dataset has been uploaded. It can synthesize data three times faster than the original code, which can save about two days of waiting!!!
 
 ### Project Page
 <p>Our Project Page is available now: <a href="https://wukaoliu.github.io/HAttMatting/">HAttMatting</a>. The more contents is updating.</p>
