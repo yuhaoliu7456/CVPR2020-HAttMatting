@@ -4,7 +4,7 @@ This is the offical implementation of HAttMatting(CVPR2020)<br/>
 Code and paper is coming soon!!!<br/>
 
 ## News
-1. Some example images from our dataset have been uploaded.
+1. The thumbnail from our dataset have been uploaded.
 <table style="margin-left: auto; margin-right: auto;">
         <tr>
             <td>
