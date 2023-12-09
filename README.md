@@ -4,8 +4,9 @@ This is the official implementation of HAttMatting(CVPR2020)<br/>
 Code and paper is coming soon!!!<br/>
 
 ## News
-0.The data set is now fully open to the public. If you use it for non-commercial uses, please send us an email to access the link if necessary.
-1. The thumbnail from our dataset have been uploaded.
+0. The dataset link is : <a href="https://drive.google.com/file/d/1ljJkWONPfJzylkZg_1HaGRoaRaaiAxRu/view?usp=sharing"> Distinctions-646</a>. <br/>
+1. The data set is now fully open to the public. If you use it for non-commercial uses, please send us an email to access the link if necessary.
+2. The thumbnail from our dataset have been uploaded.
 <table style="margin-left: auto; margin-right: auto;">
         <tr>
             <td>
@@ -24,8 +25,8 @@ Code and paper is coming soon!!!<br/>
             </td>
         </tr>
 </table>
-2. Our project Page is now fully open to the public, including pipelines, data set examples, etc. Paper will be open in two days.<br/>
-3. The file for generating the composition dataset has been uploaded. It can synthesize data three times faster than the original code, which can save about two days of waiting!!!
+3. Our project Page is now fully open to the public, including pipelines, data set examples, etc. Paper will be open in two days.<br/>
+4. The file for generating the composition dataset has been uploaded. It can synthesize data three times faster than the original code, which can save about two days of waiting!!!
 
 ### Project Page
 <p>Our Project Page is available now: <a href="https://wukaoliu.github.io/HAttMatting/">HAttMatting</a>. The more contents is updating.</p>
